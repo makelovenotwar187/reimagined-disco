@@ -1,25 +1,25 @@
 body {
-    margin: 0;
-      background: linear-gradient(135deg, #5b2cff, #1aff64);
-        font-family: Arial, sans-serif;
-        }
+margin: 0;
+background: linear-gradient(135deg, #5b2cff, #1aff64);
+font-family: Arial, sans-serif;
+}
 
-        .app {
-          min-height: 100vh;
-            display: flex;
-              flex-direction: column;
-                justify-content: center;
-                  align-items: center;
-                    color: white;
-                      text-align: center;
-                      }
+.app {
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+color: white;
+text-align: center;
+}
 
-                      button {
-                        margin-top: 20px;
-                          padding: 14px 24px;
-                            font-size: 16px;
-                              border: none;
-                                border-radius: 30px;
-                                  background: black;
-                                    color: #1aff64;
-                                    }
+button {
+margin-top: 20px;
+padding: 14px 24px;
+font-size: 16px;
+border: none;
+border-radius: 30px;
+background: black;
+color: #1aff64;
+}
